@@ -87,18 +87,6 @@
     "superstruct" "^0.14.2"
     "tweetnacl" "^1.0.0"
 
-"@types/bn.js@^5.1.0":
-  "integrity" "sha512-QSSVYj7pYFN49kW77o2s9xTCwZ8F2xLbjLLSEVh8D2F4JUhZtPAGOFLTD+ffqksBx/u4cE/KImFjyhqCjn/LIA=="
-  "resolved" "https://registry.npmjs.org/@types/bn.js/-/bn.js-5.1.0.tgz"
-  "version" "5.1.0"
-  dependencies:
-    "@types/node" "*"
-
-"@types/chai@^4.3.0":
-  "integrity" "sha512-/zPMqDkzSZ8t3VtxOa4KPq7uzzW978M9Tvh+j7GHKuo6k6GTLxPJ4J5gE5cjfJ26pnXst0N5Hax8Sr0T2Mi9zQ=="
-  "resolved" "https://registry.npmjs.org/@types/chai/-/chai-4.3.1.tgz"
-  "version" "4.3.1"
-
 "@types/connect@^3.4.33":
   "integrity" "sha512-cdeYyv4KWoEgpBISTxWvqYsVy444DOqehiF3fM3ne10AmJ62RSyNkUnxMJXHQWRQQX2eR94m5y1IZyDwBjV9FQ=="
   "resolved" "https://registry.npmjs.org/@types/connect/-/connect-3.4.35.tgz"
@@ -814,7 +802,7 @@
   dependencies:
     "minimist" "^1.2.6"
 
-"mocha@^3.X.X || ^4.X.X || ^5.X.X || ^6.X.X || ^7.X.X || ^8.X.X", "mocha@^9.0.3":
+"mocha@^3.X.X || ^4.X.X || ^5.X.X || ^6.X.X || ^7.X.X || ^8.X.X":
   "integrity" "sha512-L6XC3EdwT6YrIk0yXpavvLkn8h+EU+Y5UcCHKECyMbdUIxyMuZj4bX4U9e1nvnvUUvQVsV2VHQr5zLdcUkhW/g=="
   "resolved" "https://registry.npmjs.org/mocha/-/mocha-9.2.2.tgz"
   "version" "9.2.2"
@@ -934,11 +922,6 @@
   "integrity" "sha512-JU3teHTNjmE2VCGFzuY8EXzCDVwEqB2a8fsIvwaStHhAWJEeVd1o1QD80CU6+ZdEXXSLbSsuLwJjkCBWqRQUVA=="
   "resolved" "https://registry.npmjs.org/picomatch/-/picomatch-2.3.1.tgz"
   "version" "2.3.1"
-
-"prettier@^2.6.2":
-  "integrity" "sha512-ujppO+MkdPqoVINuDFDRLClm7D78qbDt0/NR+wp5FqEZOoTNAjPHWj17QRhu7geIHJfcNhRk1XVQmF8Bp3ye+g=="
-  "resolved" "https://registry.npmjs.org/prettier/-/prettier-2.7.1.tgz"
-  "version" "2.7.1"
 
 "randombytes@^2.1.0":
   "integrity" "sha512-vYl3iOX+4CKUWuxGi9Ukhie6fsqXqS9FE2Zaic4tNFD2N2QQaXOMFbuKK4QmDHC0JO6B1Zp41J0LpT0oR68amQ=="
